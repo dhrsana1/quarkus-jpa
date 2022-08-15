@@ -1,4 +1,4 @@
-package com.baeldung.quarkus_project;
+package com.poc.quarkus_project;
 
 import io.smallrye.mutiny.Multi;
 import io.smallrye.mutiny.Uni;

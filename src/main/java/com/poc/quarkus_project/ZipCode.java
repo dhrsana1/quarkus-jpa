@@ -1,4 +1,4 @@
-package com.baeldung.quarkus_project;
+package com.poc.quarkus_project;
 
 import io.quarkus.hibernate.reactive.panache.PanacheEntityBase;
 import io.quarkus.runtime.annotations.RegisterForReflection;

@@ -1,4 +1,4 @@
-package com.baeldung.quarkus_project;
+package com.poc.quarkus_project;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
